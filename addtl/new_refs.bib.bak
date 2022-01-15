@@ -9,7 +9,7 @@
   pages     = {34},
   volume    = {11},
   file      = {:A_Video_based_Vehicle_Detection_Counting_and_Class.pdf:PDF},
-  groups    = {Background Subtraction},
+  groups    = {Background Subtraction, Used},
   publisher = {Modern Education and Computer Science Press},
 }
 
@@ -21,7 +21,7 @@
   pages     = {631-634},
   doi       = {10.1109/ICIST.2014.6920557},
   file      = {:li2014.pdf:PDF},
-  groups    = {Background Subtraction},
+  groups    = {Background Subtraction, Used},
 }
 
 @InProceedings{7440510,
@@ -32,7 +32,7 @@
   pages     = {224-227},
   doi       = {10.1109/KST.2016.7440510},
   file      = {:seenouvong2016.pdf:PDF},
-  groups    = {Background Subtraction},
+  groups    = {Background Subtraction, Used},
 }
 
 @Article{uke2013moving,
@@ -125,6 +125,310 @@
   pages     = {1305-1308},
   doi       = {10.1109/ICIRCA.2018.8597266},
   file      = {:10.1109@ICIRCA.2018.8597266.pdf:PDF},
+  groups    = {Used},
+}
+
+@InProceedings{7016649,
+  author    = {Guennouni, Souhail and Ahaitouf, Ali and Mansouri, Anass},
+  booktitle = {2014 Third IEEE International Colloquium in Information Science and Technology (CIST)},
+  title     = {Multiple object detection using OpenCV on an embedded platform},
+  year      = {2014},
+  pages     = {374-377},
+  doi       = {10.1109/CIST.2014.7016649},
+  file      = {:guennouni2014.pdf:PDF},
+  groups    = {Used},
+}
+
+@Article{2009,
+  author  = {Hussein Sinsuat Lidasan and Ian C. Espada and Mark Richmund C. De Leon},
+  journal = {Proceedings of the Eastern Asia Society for Transportation Studies},
+  title   = {A Needs Assessment of Transport Planning and Traffic Management of Local Cities: The Case of the Philippines},
+  year    = {2009},
+  pages   = {3-3},
+  volume  = {2009},
+  doi     = {10.11175/eastpro.2009.0.3.0},
+  file    = {:4dd556fcf9207514b13aced9346bb262.pdf:PDF},
+  groups  = {Used},
+}
+
+@Article{talebpour2017effect,
+  author    = {Talebpour, Alireza and Mahmassani, Hani S and Hamdar, Samer H},
+  journal   = {Transportation Research Procedia},
+  title     = {Effect of information availability on stability of traffic flow: Percolation theory approach},
+  year      = {2017},
+  pages     = {81--100},
+  volume    = {23},
+  file      = {:1-s2.0-S2352146517302831-main.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@Article{wu2015traffic,
+  author    = {Wu, Shaofei},
+  journal   = {International Journal of Bifurcation and Chaos},
+  title     = {A traffic motion object extraction algorithm},
+  year      = {2015},
+  number    = {14},
+  pages     = {1540039},
+  volume    = {25},
+  file      = {:wu2015.pdf:PDF},
+  publisher = {World Scientific},
+}
+
+@Article{marcomini2018comparison,
+  author  = {Marcomini, LA and Cunha, Andr{\'e} Luiz},
+  journal = {arXiv preprint arXiv:1810.02835},
+  title   = {A comparison between background modelling methods for vehicle segmentation in highway traffic videos},
+  year    = {2018},
+  file    = {:1810.02835.pdf:PDF},
+  groups  = {Used},
+}
+
+@InProceedings{klare2009background,
+  author       = {Klare, Brendan and Sarkar, Sudeep},
+  booktitle    = {2009 IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops},
+  title        = {Background subtraction in varying illuminations using an ensemble based on an enlarged feature set},
+  year         = {2009},
+  organization = {IEEE},
+  pages        = {66--73},
+  file         = {:klare2009.pdf:PDF},
+}
+
+@InProceedings{abaya2014low,
+  author       = {Abaya, Wilson Feipeng and Basa, Jimmy and Sy, Michael and Abad, Alexander C and Dadios, Elmer P},
+  booktitle    = {2014 International conference on humanoid, nanotechnology, information technology, communication and control, environment and management (HNICEM)},
+  title        = {Low cost smart security camera with night vision capability using Raspberry Pi and OpenCV},
+  year         = {2014},
+  organization = {IEEE},
+  pages        = {1--6},
+  file         = {:abaya2014.pdf:PDF},
+}
+
+@Article{sobral2014comprehensive,
+  author    = {Sobral, Andrews and Vacavant, Antoine},
+  journal   = {Computer Vision and Image Understanding},
+  title     = {A comprehensive review of background subtraction algorithms evaluated with synthetic and real videos},
+  year      = {2014},
+  pages     = {4--21},
+  volume    = {122},
+  file      = {:sobral2014.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@Article{pulli2012real,
+  author    = {Pulli, Kari and Baksheev, Anatoly and Kornyakov, Kirill and Eruhimov, Victor},
+  journal   = {Communications of the ACM},
+  title     = {Real-time computer vision with OpenCV},
+  year      = {2012},
+  number    = {6},
+  pages     = {61--69},
+  volume    = {55},
+  file      = {:pulli2012.pdf:PDF},
+  groups    = {Used},
+  publisher = {ACM New York, NY, USA},
+}
+
+@Book{garcia2015learning,
+  author    = {Garc{\'\i}a, Gloria Bueno and Suarez, Oscar Deniz and Aranda, Jos{\'e} Luis Espinosa and Tercero, Jesus Salido and Gracia, Ismael Serrano and Enano, Noelia V{\'a}llez},
+  publisher = {Packt Publishing Birmingham},
+  title     = {Learning image processing with OpenCV},
+  year      = {2015},
+  file      = {:Learning Image Processing with OpenCV-2015.pdf:PDF},
+  groups    = {Used},
+}
+
+@InProceedings{strigel2013vehicle,
+  author       = {Strigel, Elias and Meissner, Daniel and Dietmayer, Klaus},
+  booktitle    = {2013 IEEE Intelligent Vehicles Symposium (IV)},
+  title        = {Vehicle detection and tracking at intersections by fusing multiple camera views},
+  year         = {2013},
+  organization = {IEEE},
+  pages        = {882--887},
+  file         = {:strigel2013.pdf:PDF},
+}
+
+@Article{yaghoobi2020evaluating,
+  author    = {Yaghoobi Ershadi, Nastaran and Men{\'e}ndez, Jos{\'e} Manuel and Jim{\'e}nez Bermejo, David},
+  journal   = {Transportation letters},
+  title     = {Evaluating the effect of MIPM on vehicle detection performance},
+  year      = {2020},
+  number    = {4},
+  pages     = {257--273},
+  volume    = {12},
+  file      = {:10.1080@19427867.2019.1585682.pdf:PDF},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{rezaei2015robust,
+  author    = {Rezaei, Mahdi and Terauchi, Mutsuhiro and Klette, Reinhard},
+  journal   = {IEEE transactions on intelligent transportation systems},
+  title     = {Robust vehicle detection and distance estimation under challenging lighting conditions},
+  year      = {2015},
+  number    = {5},
+  pages     = {2723--2743},
+  volume    = {16},
+  file      = {:rezaei2015.pdf:PDF},
+  publisher = {IEEE},
+}
+
+@Article{yaghoobi2018robust,
+  author    = {Yaghoobi Ershadi, Nastaran and Men{\'e}ndez, Jos{\'e} Manuel and Jim{\'e}nez, David},
+  journal   = {PLoS one},
+  title     = {Robust vehicle detection in different weather conditions: Using MIPM},
+  year      = {2018},
+  number    = {3},
+  pages     = {e0191355},
+  volume    = {13},
+  file      = {:yaghoobiershadi2018.pdf:PDF},
+  groups    = {Used},
+  publisher = {Public Library of Science San Francisco, CA USA},
+}
+
+@Article{nieto2018automatic,
+  author    = {Nieto, Rafael Mart{\'\i}n and Garc{\'\i}a-Mart{\'\i}n, {\'A}lvaro and Hauptmann, Alexander G and Mart{\'\i}nez, Jos{\'e} M},
+  journal   = {IEEE Transactions on Intelligent Transportation Systems},
+  title     = {Automatic vacant parking places management system using multicamera vehicle detection},
+  year      = {2018},
+  number    = {3},
+  pages     = {1069--1080},
+  volume    = {20},
+  file      = {:martinnieto2018.pdf:PDF},
+  groups    = {Used},
+  publisher = {IEEE},
+}
+
+@Article{punagin2020analysis,
+  author  = {Punagin, Akash and Punagin, Sahana},
+  journal = {International Journal for Research in Applied Science and Engineering Technology},
+  title   = {Analysis of Lane Detection Techniques on Structured Roads using OpenCV},
+  year    = {2020},
+  pages   = {2994--3003},
+  volume  = {8},
+  file    = {:50220200616-82467-1kw0uel-with-cover-page-v2.pdf:PDF},
+}
+
+@Article{bouwmans2012background,
+  author    = {Bouwmans, Thierry},
+  journal   = {Handbook on soft computing for video surveillance},
+  title     = {Background subtraction for visual surveillance: A fuzzy approach},
+  year      = {2012},
+  pages     = {103--138},
+  volume    = {5},
+  file      = {:ChapterFuzzy.pdf:PDF},
+  groups    = {Used},
+  publisher = {Taylor and Francis Group},
+}
+
+@InProceedings{mohamed2010background,
+  author       = {Mohamed, Shahrizat Shaik and Tahir, Nooritawati Md and Adnan, Ramli},
+  booktitle    = {2010 6th International Colloquium on Signal Processing \& its Applications},
+  title        = {Background modelling and background subtraction performance for object detection},
+  year         = {2010},
+  organization = {IEEE},
+  pages        = {1--6},
+  file         = {:mohamed2010.pdf:PDF},
+}
+
+@Article{xie2013image,
+  author  = {Xie, Guobo and Lu, Wen},
+  journal = {International Journal of Electronics and Electrical Engineering},
+  title   = {Image edge detection based on opencv},
+  year    = {2013},
+  number  = {2},
+  pages   = {104--106},
+  volume  = {1},
+  file    = {:20130702104409134.pdf:PDF},
+}
+
+@InProceedings{zhang2014robust,
+  author       = {Zhang, Daiming and Fang, Bin and Yang, Weibin and Luo, Xiaosong and Tang, Yuanyan},
+  booktitle    = {Proceedings 2014 IEEE International Conference on Security, Pattern Analysis, and Cybernetics (SPAC)},
+  title        = {Robust inverse perspective mapping based on vanishing point},
+  year         = {2014},
+  organization = {IEEE},
+  pages        = {458--463},
+  file         = {:zhang2014.pdf:PDF},
+}
+
+@InProceedings{wongsaree2018distance,
+  author       = {Wongsaree, Preaw and Sinchai, Sakkarin and Wardkein, Paramote and Koseeyaporn, Jeerasuda},
+  booktitle    = {2018 3rd International Conference on Computer and Communication Systems (ICCCS)},
+  title        = {Distance detection technique using enhancing inverse perspective mapping},
+  year         = {2018},
+  organization = {IEEE},
+  pages        = {217--221},
+  file         = {:c4bced770a0e995dd3e4e6bc83d8522e.pdf:PDF},
+}
+
+@Article{xiaopeng2014geometric,
+  author    = {Xiaopeng, Li and Leilei, Sun and Daiying, Lou and Yonghong, Liu},
+  journal   = {Sensors \& Transducers},
+  title     = {A geometric correction method of plane image based on opencv},
+  year      = {2014},
+  number    = {2},
+  pages     = {234},
+  volume    = {165},
+  file      = {:P_RP_0078.pdf:PDF},
+  publisher = {IFSA Publishing, SL},
+}
+
+@InProceedings{rao2015real,
+  author       = {Rao, YG Anil and Kumar, N Sujith and Amaresh, HS and Chirag, HV},
+  booktitle    = {TENCON 2015-2015 IEEE Region 10 Conference},
+  title        = {Real-time speed estimation of vehicles from uncalibrated view-independent traffic cameras},
+  year         = {2015},
+  organization = {IEEE},
+  pages        = {1--6},
+  file         = {:anilraoyg2015.pdf:PDF},
+}
+
+@Article{unzueta2011adaptive,
+  author    = {Unzueta, Luis and Nieto, Marcos and Cort{\'e}s, Andoni and Barandiaran, Javier and Otaegui, Oihana and S{\'a}nchez, Pedro},
+  journal   = {IEEE Transactions on Intelligent Transportation Systems},
+  title     = {Adaptive multicue background subtraction for robust vehicle counting and classification},
+  year      = {2011},
+  number    = {2},
+  pages     = {527--540},
+  volume    = {13},
+  file      = {:unzueta2012.pdf:PDF},
+  groups    = {Used},
+  publisher = {IEEE},
+}
+
+@Article{zamalieva2014background,
+  author    = {Zamalieva, Daniya and Yilmaz, Alper},
+  journal   = {Computer Vision and Image Understanding},
+  title     = {Background subtraction for the moving camera: A geometric approach},
+  year      = {2014},
+  pages     = {73--85},
+  volume    = {127},
+  file      = {:zamalieva2014.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@Online{Vijayrania2020,
+  author = {Nilesh Vijayrania},
+  groups = {Used},
+  title  = {Camera Image Perspective Transformation to different plane using OpenCV},
+  url    = {https://nilesh0109.medium.com/camera-image-perspective-transformation-to-different-plane-using-opencv-5e389dd56527},
+  year   = {2020},
+}
+
+@InProceedings{maqbool2018vehicle,
+  author       = {Maqbool, Safoora and Khan, Mehwish and Tahir, Jawaria and Jalil, Abdul and Ali, Ahmad and Ahmad, Javed},
+  booktitle    = {2018 IEEE 3rd International Conference on Signal and Image Processing (ICSIP)},
+  title        = {Vehicle detection, tracking and counting},
+  year         = {2018},
+  organization = {IEEE},
+  pages        = {126--132},
+  file         = {:10.1109@SIPROCESS.2018.8600460.pdf:PDF},
+}
+
+@Article{li2016vehicle,
+  author  = {Li, Bo and Zhang, Tianlei and Xia, Tian},
+  journal = {arXiv preprint arXiv:1608.07916},
+  title   = {Vehicle detection from 3d lidar using fully convolutional network},
+  year    = {2016},
+  file    = {:1608.07916.pdf:PDF},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
@@ -132,4 +436,5 @@
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
 1 StaticGroup:Background Subtraction\;0\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:Used\;0\;1\;0x8a8a8aff\;\;\;;
 }
